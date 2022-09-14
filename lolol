@@ -3464,7 +3464,7 @@ end)
 
 
 local swagmins = {
-    3037313635
+    3037313635,
 }
 
 local bending = false
